@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Top Karega
+title: Top Karega - Helping You Ace Your Tests.
+description: Top Karega provides you with high quality pdfs to practice for your upcoming tests.
 tags:
   - blog
   - template
@@ -13,13 +12,15 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Tags
+    url: /tags
   - title: About
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 108parthnikam@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,17 +30,16 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: ParthNikam
+twitter_username: elonmusk
+instagram_username: parthnikam108
+linkedin_username: parthnikam108
+medium_username: parthnikam108
 
 
 # Posts Settings
-show_time_bar: true
-show_modal_on_exit: false
+show_time_bar: false
+show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
 
@@ -61,7 +61,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
@@ -105,4 +105,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1.1.2

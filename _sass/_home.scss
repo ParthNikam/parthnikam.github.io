@@ -107,10 +107,11 @@
 
   .box-body {
     img {
-      width: 100%;
+      width: 80%;
       height: auto;
       margin: 0 auto;
       transition: all 0.2s ease-in-out;
+      object-fit: cover;
     }
 
     time {

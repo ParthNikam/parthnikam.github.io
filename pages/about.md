@@ -1,19 +1,18 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2023-06-27 01:53:59'
 title: About
-description: Some description.
+description: What We do.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profpic.jpg" alt="Parth Nikam" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to TopKarega.com, your ultimate destination for a comprehensive collection of question papers exclusively picked for FIITJEE students. We understand the importance of practice in excelling in your exams, and that's why we offer a wide range of question papers for different weeks, phases, subjects, and dates. 
+
+Whether you're preparing for an upcoming test or aiming to reinforce your knowledge, our platform provides the perfect resources to aid your journey towards academic excellence. What sets us apart is our founder, Parth Nikam, who personally utilizes TopKarega.com to prepare for his own tests. If it helps him, imagine the difference it can make for you! 
+
+> Don't miss out on the opportunity to enhance your performance – explore TopKarega.com today and witness the positive impact it can have on your exam preparation.

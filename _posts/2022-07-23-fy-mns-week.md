@@ -1,5 +1,5 @@
 ---
-date: 2022-07-23 16:15:23
+date: 2022-07-23
 layout: post
 title: Mains - Weekly Test
 subtitle: Math Physics Chem

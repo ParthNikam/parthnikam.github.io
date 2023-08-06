@@ -1,5 +1,5 @@
 ---
-date: 2022-07-30 16:15:23
+date: 2022-07-30
 layout: post
 title: First Year Advance - Weekly test
 subtitle: Math Physics Chem

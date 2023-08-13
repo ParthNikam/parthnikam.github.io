@@ -1,5 +1,5 @@
 ---
-date: 2023-08-06 23:59:20
+date: 2023-08-06
 layout: post
 title: "Another test for running the build"
 subtitle: subtitle

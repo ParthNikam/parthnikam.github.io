@@ -1,16 +1,14 @@
 ---
-date: 2022-07-30 16:48:05
+date: 2022-07-30
 layout: post
 title: First Year Advance - Weekly test
 subtitle: Math Physics Chem
 description: >-
   What makes a preparation website simpler, faster and better? Let me tell you ... 
 
-image: >-
-    /../assets/img/posts/Calendar-cuate.png
+image: /../assets/img/posts/Calendar-cuate.png
+optimized_image: /../assets/img/posts/Calendar-cuate.png
 
-optimized_image: >-
-    /../assets/img/posts/Calendar-cuate.png
 
 category: weekly 
 pdf_path: https://drive.google.com/file/d/1hwh_asGtdfS6OLFlXdn23HxiX5pt9p2V/preview?usp=drive_link

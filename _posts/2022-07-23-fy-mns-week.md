@@ -1,16 +1,13 @@
 ---
-date: 2022-07-23 16:48:05
+date: 2022-07-23
 layout: post
 title: Mains - Weekly Test
 subtitle: Math Physics Chem
 description: >-
   What makes a preparation website simpler, faster and better? Let me tell you ... 
 
-image: >-
-    /../assets/img/posts/Calendar-rafiki.png
-
-optimized_image: >-
-    /../assets/img/posts/Calendar-rafiki.png
+image: /../assets/img/posts/Calendar-amico.png
+optimized_image: /../assets/img/posts/Calendar-amico.png
 
 category: weekly 
 pdf_path: https://drive.google.com/file/d/1nONwPmQqhxjuCYAnyp0g2YnNmhMwW272/preview?usp=drive_link

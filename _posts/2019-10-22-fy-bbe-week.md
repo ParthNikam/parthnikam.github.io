@@ -1,16 +1,13 @@
 ---
-date: 2019-10-21 16:48:05
+date: 2019-10-21
 layout: post
 title: Big Bang Edge Test 3
 subtitle: Math Physics Chem
 description: >-
   What makes a preparation website simpler, faster and better? Let me tell you ... 
 
-image: >-
-    /../assets/img/posts/Calendar-bro.png
-
-optimized_image: >-
-    /../assets/img/posts/Calendar-bro.png
+image: /../assets/img/posts/Calendar-bro.png
+optimized_image: /../assets/img/posts/Calendar-bro.png
 
 category: worksheets 
 pdf_path: https://drive.google.com/file/d/1TRJuGj0OIit4xhWp7G52BiASeDM-fyWM/preview?usp=drive_link

@@ -1,5 +1,5 @@
 ---
-date: 2019-10-21
+date: 2019-10-21 00:00:00 +0000 
 layout: post
 title: Big Bang Edge Test 3
 subtitle: Math Physics Chem

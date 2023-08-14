@@ -2,10 +2,10 @@
 date: 2023-08-06 12:00:00 +0530
 layout: post
 title: "Another test for running the build"
-subtitle: subtitle
-description: description
-image:
-optimized_image:
+subtitle: How To Get Rich?
+description: What it takes to build your billion dollar empire?
+image: https://cdn.dribbble.com/users/674925/screenshots/15249391/media/7198345c88bbed68b7da94074d69c255.jpg?resize=400x0
+optimized_image: https://cdn.dribbble.com/users/674925/screenshots/15249391/media/7198345c88bbed68b7da94074d69c255.jpg?resize=400x0
 category: blog
 tags: blog
 author: parthnikam

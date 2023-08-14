@@ -1,5 +1,5 @@
 ---
-date: 2023-05-16 00:00:00 +0000 
+date: 2023-05-16 12:00:00 +0530
 layout: post
 title: Welcome to the desert of the real
 subtitle: Simpler. Faster. Better.

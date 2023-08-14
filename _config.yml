@@ -63,6 +63,7 @@ collections:
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: false
+timezone: Asia/Kolkata
 
 # Content paginator
 paginate_content:

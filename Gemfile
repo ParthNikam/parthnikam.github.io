@@ -9,5 +9,6 @@ gem "jekyll-paginate-content"
 gem "json"
 gem "wdm", ">= 0.1.0"
 gem "webrick"
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 gem "github-pages", "~> 228"

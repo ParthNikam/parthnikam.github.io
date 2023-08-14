@@ -1,5 +1,5 @@
 ---
-date: 2019-10-20 00:00:00 +0000 
+date: 2019-10-20 12:00:00 +0530
 layout: post
 title: Big Bang Edge Test 1
 subtitle: Math Physics Chem

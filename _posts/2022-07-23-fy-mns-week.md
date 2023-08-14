@@ -1,5 +1,5 @@
 ---
-date: 2022-07-23 00:00:00 +0000 
+date: 2022-07-23 12:00:00 +0530
 layout: post
 title: Mains - Weekly Test
 subtitle: Math Physics Chem

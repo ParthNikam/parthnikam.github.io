@@ -193,7 +193,7 @@ function watch() {
   gulp.watch('src/img/**/*', gulp.series(images, config, jekyll, reload));
 
   // Watch html/md files, rebuild config, run Jekyll & reload BrowserSync
-  gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*', '_authors/*', 'pages/*', 'category/*'], gulp.series(config, jekyll, reload));
+  gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*', '_posts/_post_docs*', '_authors/*', 'pages/*', 'category/*'], gulp.series(config, jekyll, reload));
 }
 
 /**

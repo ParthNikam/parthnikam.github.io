@@ -41,4 +41,25 @@ links:
 - link: '/pdfs/2022-09-03-fy-adv-week'
   name: 'First Year Advance Weekly Test'
 
+- link: '/pdfs/2023-07-31-fy-adv-ph1'
+  name: 'First Year Advance Phase Test 1'
+
+- link: '/pdfs/2022-01-30-fy-adv-ph4'
+  name: 'First Year Advance Phase Test 4'
+
+- link: '/pdfs/2022-08-21-fy-adv-week'
+  name: 'First Year Advance Weekly Test'
+
+- link: '/pdfs/2022-09-04-fy-adv-week'
+  name: 'First Year Advance Weekly Test'
+
+- link: '/pdfs/2022-01-30-fy-adv-ph4'
+  name: 'First Year Advance Phase Test 4'
+
+- link: '/pdfs/2022-08-21-fy-adv-week'
+  name: 'First Year Advance Weekly Test'
+
+- link: '/pdfs/2022-09-04-fy-adv-week'
+  name: 'First Year Advance Weekly Test'
+
 ---

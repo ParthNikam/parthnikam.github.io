@@ -90,7 +90,7 @@
     @include center(rem(800px));
     @include mainFont(400);
     font-size: rem(17px);
-    line-height: rem(30px);
+    line-height: rem(15px);
     letter-spacing: 0.025rem;
     padding: 0 rem(20px);
     margin: rem(20px) auto 0;
@@ -98,7 +98,7 @@
     @include media(">=sm") {
       font-size: rem(20px);
       line-height: rem(40px);
-      margin: rem(29px) auto 0;
+      margin: rem(30px) auto 0;
     }
   }
 
@@ -129,6 +129,37 @@
       font-size: rem(20px);
     }
 }
+
+.pdf-item {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #e3e0e0;
+  margin: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.2s; /* Add a transition for the hover effect */
+}
+
+.pdf-item:hover {
+  transform: scale(1.05); /* Scale up the item on hover for focus */
+}
+
+.pdf-content {
+  flex: 1;
+}
+
+.pdf-item h2 {
+  font-size: 1.2em;
+  margin-top: -30px; /* Reduce the margin to adjust spacing */
+}
+
+.pdf-content p {
+  font-size: 0.8em;
+  color: #777;
+  margin: 10px;
+}
+
 
   .sort-label {
       margin-right: 10px; /* Add spacing between label and select */

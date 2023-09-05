@@ -33,16 +33,20 @@
         {% include pagination-post.html progressBar=true %} {% include toc.html
         %} {{ content }}
 
-        <div class="post-sort">
-            <label class="sort-label" for="sortSelect">Sort by:</label>
-            <select class="sort-select" id="sortSelect">
-                <option value="name">Name</option>
-                <option value="date">Date</option>
-            </select>
-        </div>
+        {% if page.special == false %}
+          <div class="post-sort">
+              <label class="sort-label" for="sortSelect">Sort by:</label>
+              <select class="sort-select" id="sortSelect">
+                  <option value="name">Name</option>
+                  <option value="date">Date</option>
+              </select>
+          </div>
+        {% endif %}
         
-            
-        <ul id="pdfList" style="list-style-type:none"></ul>
+        <!-- <ul class="pdfList" id="pdfList" style="list-style-type:none"></ul> -->
+        <div id="pdfList">
+
+        </div>            
 
         {% include pagination-post.html %}
       </article>
@@ -126,20 +130,50 @@
           }
 
 
+          // pdfList.innerHTML = "";
+          // pdfs.forEach(pdf => {
+          //     const listItem = document.createElement("li");
+          //     const link = document.createElement("a");
+          //     const date = pdf.link.split("/")[2].slice(0, 10);
+          //     const name = pdf.name;
+
+          //     link.href = pdf.link;
+          //     link.textContent = `${name} - ${formatDate(date)}`;
+          //     listItem.appendChild(link);
+          //     pdfList.appendChild(listItem);
+          // });
+          
+          
+
           pdfList.innerHTML = "";
           pdfs.forEach(pdf => {
-              const listItem = document.createElement("li");
-              const link = document.createElement("a");
-              const date = pdf.link.split("/")[2].slice(0, 10);
-              const name = pdf.name;
+            const pdfItem = document.createElement("div");
+            pdfItem.classList.add("pdf-item");
 
-              link.href = pdf.link;
-              link.textContent = `${name} - ${formatDate(date)}`;
-              listItem.appendChild(link);
-              pdfList.appendChild(listItem);
+            // const icon = document.createElement("span");
+            // icon.classList.add("pdf-icon");
+            // pdfItem.appendChild(icon);
+
+            const content = document.createElement("div");
+            content.classList.add("pdf-content");
+
+            const title = document.createElement("h2");
+            title.textContent = pdf.name;
+            content.appendChild(title);
+
+            const date = document.createElement("p");
+            date.textContent = `Posted on ${formatDate(pdf.link.split("/")[2].slice(0, 10))}`;
+            content.appendChild(date);
+
+            pdfItem.appendChild(content);
+
+            pdfItem.addEventListener("click", function () {
+              window.location.href = pdf.link;
+            });
+
+            pdfList.appendChild(pdfItem);
           });
-          
-          
+
         }
 
 

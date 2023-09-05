@@ -1,10 +1,11 @@
 ---
-date: 2019-10-21 12:00:00 +0530
+date: 2022-10-22 12:00:00 +0530
 layout: post
 title: Advance Weekly Tests
-subtitle: Archive for advance weekly test pyqs
-description: Advance is kinda tough guys, you really need this ...
+subtitle: 
+description: Advance isn't tough guys, if you use this ...
 category: advance
+special: false
 image: /../assets/img/posts/Calendar-amico.png
 optimized_image: /../assets/img/posts/Calendar-amico.png
 tags: 

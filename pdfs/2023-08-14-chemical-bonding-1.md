@@ -3,7 +3,7 @@ date: 2023-08-14 00:00:00  +0530
 layout: pdfs
 title: 
 pdf_path: https://drive.google.com/file/d/1bT5Zo5hWz5AywyPgiXGjbydREjmsu60Z/preview?usp=drive_link
-tags: -chemical-bonding-1.pdf - Google Drive
+tags: worksheets
 author: parthnikam
 paginate: true
 ---

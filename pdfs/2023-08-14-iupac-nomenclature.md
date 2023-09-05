@@ -3,7 +3,7 @@ date: 2023-08-14 00:00:00  +0530
 layout: pdfs
 title: 
 pdf_path: https://drive.google.com/file/d/1bXX4ZXjYeci4TMykJg5m9iJRPkuvh2Kx/preview?usp=drive_link
-tags: -iupac-nomenclature.pdf - Google Drive
+tags: worksheets
 author: parthnikam
 paginate: true
 ---

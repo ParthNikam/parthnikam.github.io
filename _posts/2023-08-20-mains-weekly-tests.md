@@ -1,12 +1,13 @@
 ---
-date: 2019-10-21 12:00:00 +0530
+date: 2022-10-22 12:00:00 +0530
 layout: post
 title: Mains Weekly Tests
-subtitle: Archive for mains weekly test pyqs
-description: Questions that might come in your next test ... 
+subtitle: 
+description: Questions that definintely might come in your next test ... 
 image: /../assets/img/posts/Calendar-rafiki.png
 optimized_image: /../assets/img/posts/Calendar-rafiki.png
 category: mains 
+special: false
 tags: 
 - mains
 - weekly

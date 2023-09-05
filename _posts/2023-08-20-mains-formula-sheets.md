@@ -2,10 +2,10 @@
 date: 2019-10-21 12:00:00 +0530
 layout: post
 title: Mains Formula Sheets
-subtitle: All formula sheets you need for Mains 
+subtitle: 
 description: Formula sheets are life savers!
 category: notes
-
+special: false
 image: /../assets/img/posts/Notes-bro.png
 optimized_image: /../assets/img/posts/Notes-bro.png
 

@@ -74,5 +74,32 @@ links:
 - link: '/pdfs/2023-07-31-fy-mns-ph1'
   name: 'First Year Mains Phase Test 1'
 
+- link: '/pdfs/2021-08-03-fy-adv-ph1'
+  name: 'First Year Advance Phase Test 1'
+
+- link: '/pdfs/2021-11-29-fy-adv-ph3'
+  name: 'First Year Advance Phase Test 3'
+
+- link: '/pdfs/2021-11-30-fy-adv-ph3'
+  name: 'First Year Advance Phase Test 3'
+
+- link: '/pdfs/2021-10-01-fy-mns-ph2'
+  name: 'First Year Mains Phase Test 2'
+
+- link: '/pdfs/2021-10-04-fy-adv-ph2'
+  name: 'First Year Advance Phase Test 2'
+
+- link: '/pdfs/2021-10-05-fy-adv-ph2'
+  name: 'First Year Advance Phase Test 2'
+
+- link: '/pdfs/2021-08-02-fy-adv-ph1'
+  name: 'First Year Advance Phase Test 1'
+
+- link: '/pdfs/2021-11-27-fy-mns-ph3'
+  name: 'First Year Mains Phase Test 3'
+
+- link: '/pdfs/2021-02-12-fy-mns-ph4'
+  name: 'First Year Mains Phase Test 4'
+
 ---
 

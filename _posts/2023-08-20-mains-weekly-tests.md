@@ -86,6 +86,38 @@ links:
 - link: '/pdfs/2022-08-28-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
+- link: '/pdfs/2021-08-21-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2021-09-04-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2021-09-18-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2021-10-01-fy-mns-ph2'
+  name: 'First Year Mains Phase Test 2'
+
+- link: '/pdfs/2021-10-25-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2021-12-11-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2021-11-13-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2022-01-08-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2021-11-27-fy-mns-ph3'
+  name: 'First Year Mains Phase Test 3'
+
+- link: '/pdfs/2022-01-29-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
+- link: '/pdfs/2021-02-12-fy-mns-ph4'
+  name: 'First Year Mains Phase Test 4'
 ---
 
 

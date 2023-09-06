@@ -5,11 +5,11 @@ title: Mains Formula Sheets
 subtitle: 
 description: Formula sheets are life savers!
 category: notes
-special: false
+special: true
 image: /../assets/img/posts/Notes-bro.png
 optimized_image: /../assets/img/posts/Notes-bro.png
 
-pdf_path: https://drive.google.com/file/d/1TRJuGj0OIit4xhWp7G52BiASeDM-fyWM/preview?usp=drive_link
+pdf_path: 
 tags: 
 - worksheets
 - notes

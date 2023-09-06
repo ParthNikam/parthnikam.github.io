@@ -9,18 +9,18 @@ image: /../assets/img/posts/Taking notes-amico.png
 optimized_image: /../assets/img/posts/Taking notes-amico.png
 
 category: notes 
-special: false
-pdf_path: https://drive.google.com/file/d/1rNVD0UFmY_3fBSu6Vk-HyXn7F9sF4SB6/preview?usp=drive_link
+special: true
+
 tags: 
 - mains
 - notes
 author: parthnikam
 paginate: false
-links:
--
+
+
 ---
 
-<iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>
+
 
 
 

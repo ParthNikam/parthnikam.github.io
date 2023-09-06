@@ -14,109 +14,109 @@ tags:
 author: parthnikam
 paginate: false
 links: 
-- link: '/pdfs/2022-08-27-fy-mns-week'
+- link: '/pdfs/pyqs/2022-08-27-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-11-19-fy-mns-week'
+- link: '/pdfs/pyqs/2022-11-19-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-08-16-fy-mns-ph1'
+- link: '/pdfs/pyqs/2022-08-16-fy-mns-ph1'
   name: 'First Year Mains Phase Test 1'
 
-- link: '/pdfs/2022-09-24-fy-mns-week'
+- link: '/pdfs/pyqs/2022-09-24-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-07-05-fy-mns-rsh1'
+- link: '/pdfs/pyqs/2022-07-05-fy-mns-rsh1'
   name: 'First Year Mains Reshuffling Test 1'
 
-- link: '/pdfs/2022-12-12-fy-mns-ph3'
+- link: '/pdfs/pyqs/2022-12-12-fy-mns-ph3'
   name: 'First Year Mains Phase Test 3'
 
-- link: '/pdfs/2022-09-30-fy-mns-ph2'
+- link: '/pdfs/pyqs/2022-09-30-fy-mns-ph2'
   name: 'First Year Mains Phase Test 2'
 
-- link: '/pdfs/2022-07-23-fy-mns-week'
+- link: '/pdfs/pyqs/2022-07-23-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-12-03-fy-mns-week'
+- link: '/pdfs/pyqs/2022-12-03-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-01-07-fy-mns-week'
+- link: '/pdfs/pyqs/2022-01-07-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-11-05-fy-mns-week'
+- link: '/pdfs/pyqs/2022-11-05-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-12-12-fy-mns-ph3'
+- link: '/pdfs/pyqs/2022-12-12-fy-mns-ph3'
   name: 'First Year Mains Phase Test 3'
 
-- link: '/pdfs/2023-08-14-fy-mns-week'
+- link: '/pdfs/pyqs/2023-08-14-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2023-09-30-fy-mns-ph2'
+- link: '/pdfs/pyqs/2023-09-30-fy-mns-ph2'
   name: 'First Year Mains Phase Test 2'
 
-- link: '/pdfs/2023-12-24-fy-mns-week'
+- link: '/pdfs/pyqs/2023-12-24-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-01-30-fy-mns-ph4'
+- link: '/pdfs/pyqs/2022-01-30-fy-mns-ph4'
   name: 'First Year Mains Phase Test 4'
 
-- link: '/pdfs/2022-08-28-fy-mns-week'
+- link: '/pdfs/pyqs/2022-08-28-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-11-05-fy-mns-week'
+- link: '/pdfs/pyqs/2022-11-05-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-12-12-fy-mns-ph3'
+- link: '/pdfs/pyqs/2022-12-12-fy-mns-ph3'
   name: 'First Year Mains Phase Test 3'
 
-- link: '/pdfs/2023-08-14-fy-mns-week'
+- link: '/pdfs/pyqs/2023-08-14-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2023-09-30-fy-mns-ph2'
+- link: '/pdfs/pyqs/2023-09-30-fy-mns-ph2'
   name: 'First Year Mains Phase Test 2'
 
-- link: '/pdfs/2023-12-24-fy-mns-week'
+- link: '/pdfs/pyqs/2023-12-24-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-01-30-fy-mns-ph4'
+- link: '/pdfs/pyqs/2022-01-30-fy-mns-ph4'
   name: 'First Year Mains Phase Test 4'
 
-- link: '/pdfs/2022-08-28-fy-mns-week'
+- link: '/pdfs/pyqs/2022-08-28-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-08-21-fy-mns-week'
+- link: '/pdfs/pyqs/2021-08-21-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-09-04-fy-mns-week'
+- link: '/pdfs/pyqs/2021-09-04-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-09-18-fy-mns-week'
+- link: '/pdfs/pyqs/2021-09-18-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-10-01-fy-mns-ph2'
+- link: '/pdfs/pyqs/2021-10-01-fy-mns-ph2'
   name: 'First Year Mains Phase Test 2'
 
-- link: '/pdfs/2021-10-25-fy-mns-week'
+- link: '/pdfs/pyqs/2021-10-25-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-12-11-fy-mns-week'
+- link: '/pdfs/pyqs/2021-12-11-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-11-13-fy-mns-week'
+- link: '/pdfs/pyqs/2021-11-13-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2022-01-08-fy-mns-week'
+- link: '/pdfs/pyqs/2022-01-08-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-11-27-fy-mns-ph3'
+- link: '/pdfs/pyqs/2021-11-27-fy-mns-ph3'
   name: 'First Year Mains Phase Test 3'
 
-- link: '/pdfs/2022-01-29-fy-mns-week'
+- link: '/pdfs/pyqs/2022-01-29-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/2021-02-12-fy-mns-ph4'
+- link: '/pdfs/pyqs/2021-02-12-fy-mns-ph4'
   name: 'First Year Mains Phase Test 4'
 ---
 

@@ -135,108 +135,6 @@
         return new Date(dateString).toLocaleDateString('en-US', options);
       }
 
-      // function updatePDFList(sortBy) {
-      //   const pdfList = document.getElementById("pdfList");
-      //   const pdfs = {{ page.links | jsonify | safe }};
-
-      //   if (sortBy === "date") {
-      //     pdfs.sort((a, b) => {
-      //         const dateA = new Date(a.link.split("/")[3].slice(0, 10));
-      //         const dateB = new Date(b.link.split("/")[3].slice(0, 10));
-      //         return dateA - dateB;
-      //     });
-      //   } else if (sortBy === "name") {
-      //       pdfs.sort((a, b) => a.name.localeCompare(b.name));
-      //   }
-
-      //   pdfList.innerHTML = "";
-      //   pdfs.forEach(pdf => {
-      //     const pdfItem = document.createElement("div");
-      //     pdfItem.classList.add("pdf-item");
-
-      //     const content = document.createElement("div");
-      //     content.classList.add("pdf-content");
-
-      //     const title = document.createElement("h2");
-      //     title.textContent = pdf.name;
-      //     content.appendChild(title);
-
-      //     const date = document.createElement("p");
-      //     date.textContent = `Posted on ${formatDate(pdf.link.split("/")[3].slice(0, 10))}`;
-      //     content.appendChild(date);
-
-      //     pdfItem.appendChild(content);
-
-      //     pdfItem.addEventListener("click", function () {
-      //       window.location.href = pdf.link;
-      //     });
-
-      //     pdfList.appendChild(pdfItem);
-      //   });
-      // }
-
-
-
-      // const sortSelect = document.getElementById("sortSelect");
-      // sortSelect.addEventListener("change", (event) => {
-      //     const sortBy = event.target.value;
-      //     updatePDFList(sortBy);
-      // });
-
-      // // Initial sorting by name and update the PDF list
-      // updatePDFList("name");
-      // sortSelect.value = "name"; // Set the default value of sort select
-
-
-      
-      // function filterLinks() {
-      //   const tileContainer = document.getElementById("tileContainer");
-      //   const pdfs = {{ page.links | jsonify | safe }};
-      //   const selectedSubject = subjectDropdown.value;
-      //   console.log(pdfs);
-      //   console.log(selectedSubject);
-      //   // Save the selected subject to localStorage
-      //   localStorage.setItem("selectedSubject", selectedSubject);
-
-      //   tileContainer.innerHTML = ""; // Clear the container first
-
-      //   const filteredLinks = pdfs[selectedSubject];
-      //   console.log(filteredLinks);
-
-      //   if (filteredLinks) {
-      //     filteredLinks.forEach(elem => {
-      //       const tile = document.createElement("div");
-      //       tile.classList.add("tile");
-
-      //       const title = document.createElement("h2");
-      //       title.textContent = elem.name;
-
-      //       const date = document.createElement("p");
-      //       date.textContent = `Posted on ${formatDate(elem.link.split("/")[4].slice(0, 10))}`;
-
-      //       tile.appendChild(title);
-      //       tile.appendChild(date);
-
-      //       tile.addEventListener("click", function () {
-      //         window.location.href = elem.link;
-      //       });
-
-      //       tileContainer.appendChild(tile);
-      //     });
-      //   }
-      // }
-
-      // const subjectDropdown = document.getElementById("subjectDropdown");
-      // subjectDropdown.addEventListener("change", filterLinks);      
-
-      // selectedSubject = localStorage.getItem("selectedSubject");
-      // if (selectedSubject) {
-      //   subjectDropdown.value = selectedSubject;
-      // }
-
-      // filterLinks();
-
-
       // JavaScript
       function updatePDFList(sortBy) {
         const pdfList = document.getElementById("pdfList");
@@ -295,13 +193,11 @@
         const pdfList = document.getElementById("pdfList");
         const subjectDropdown = document.getElementById("subjectDropdown");
         const pdfs = {{ page.links | jsonify | safe }};
-        console.log(pdfs);
         if (!subjectDropdown) {
           return; // Don't proceed if subjectDropdown doesn't exist
         }
 
         const selectedSubject = subjectDropdown.value;
-        console.log(selectedSubject);
         // Save the selected subject to localStorage
         localStorage.setItem("selectedSubject", selectedSubject);
 

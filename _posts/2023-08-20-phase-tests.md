@@ -59,20 +59,8 @@ links:
 - link: '/pdfs/pyqs/2022-12-10-fy-bit-ph3'
   name: 'First Year Phase Test 3'
 
-- link: '/pdfs/pyqs/2022-11-19-fy-mns-week'
-  name: 'First Year Mains Weekly Test'
-
 - link: '/pdfs/pyqs/2022-08-16-fy-adv-ph1'
   name: 'First Year Advance Phase Test 1'
-
-- link: '/pdfs/pyqs/2022-10-01-fy-adv-ph2'
-  name: 'First Year Advance Phase Test 2'
-
-- link: '/pdfs/pyqs/2022-09-30-fy-mns-ph2'
-  name: 'First Year Mains Phase Test 2'
-
-- link: '/pdfs/pyqs/2023-07-31-fy-mns-ph1'
-  name: 'First Year Mains Phase Test 1'
 
 - link: '/pdfs/pyqs/2021-08-03-fy-adv-ph1'
   name: 'First Year Advance Phase Test 1'

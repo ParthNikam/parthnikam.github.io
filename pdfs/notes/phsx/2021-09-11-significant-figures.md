@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: significant-figures.pdf - Google Drive
+title: Significant Figures
 pdf_path: https://drive.google.com/file/d/13gvjRpPYJeBNvmw7nQHfHAyExrwDreld/preview?usp=sharing
 tags: notes
 author: parthnikam

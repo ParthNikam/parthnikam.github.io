@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: study-hour-problems-on-graphs-of-kinematics.pdf - Google Drive
+title: Sudy Hour Problems on Graphs of Kinematics
 pdf_path: https://drive.google.com/file/d/10JlapIslTK0pKHVDc8dhhV3hXIzzdo-z/preview?usp=sharing
 tags: notes
 author: parthnikam

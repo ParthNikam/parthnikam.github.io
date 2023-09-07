@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: projectile-on-inclined-plane.pdf - Google Drive
+title: Projectile on Inclined Plane
 pdf_path: https://drive.google.com/file/d/14vHpIjNOpkFOzkhyE3h2DvgWhlcbEFMP/preview?usp=sharing
 tags: notes
 author: parthnikam

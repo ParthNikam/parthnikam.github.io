@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: study-hour-problems-on-2d-motion.pdf - Google Drive
+title: Study Hour Problems on 2D Motion
 pdf_path: https://drive.google.com/file/d/1YhxFXKO3S-GRDrssdbl-MxtqhvcEW__2/preview?usp=sharing
 tags: notes
 author: parthnikam

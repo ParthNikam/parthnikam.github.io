@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: differentiation.pdf - Google Drive
+title: Differentiation
 pdf_path: https://drive.google.com/file/d/1gJTuWRe5uqq4eHMWnNDTIm4rvsIU8bzz/preview?usp=sharing
 tags: notes
 author: parthnikam

@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: integration-continued.pdf - Google Drive
+title: Integration Continued
 pdf_path: https://drive.google.com/file/d/1BQ5lZ9xnT0CFaYJP6Q9zOJUn3_EskB2v/preview?usp=sharing
 tags: notes
 author: parthnikam

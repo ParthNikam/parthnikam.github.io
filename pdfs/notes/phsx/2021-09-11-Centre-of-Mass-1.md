@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Centre-of-Mass-1.pdf - Google Drive
+title: Centre of Mass 1
 pdf_path: https://drive.google.com/file/d/1RGtYNTN8AUkWsdcHjEkyPs4WiBnivmGS/preview?usp=sharing
 tags: notes
 author: parthnikam

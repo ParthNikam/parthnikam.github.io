@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: implicit-differentiation-and-maxima-and-minima.pdf - Google Drive
+title: Implicit Differentiation and Maxima and Minima
 pdf_path: https://drive.google.com/file/d/1BkXG7aD_zjdYHb8Iy-JTpNdUEI0U290w/preview?usp=sharing
 tags: notes
 author: parthnikam

@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: constant-acceleration-and-vertical-motion-under-gravity.pdf - Google Drive
+title: Constant Acceleration and Vertical Motion Under Gravity
 pdf_path: https://drive.google.com/file/d/1WVNCgMZA3dS1wt0N6qP6rgDhE3YgzbU-/preview?usp=sharing
 tags: notes
 author: parthnikam

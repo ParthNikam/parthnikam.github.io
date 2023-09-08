@@ -11,7 +11,7 @@ optimized_image: /../assets/img/posts/Calendar-bro.png
 
 tags: phase
 author: parthnikam
-paginate: true
+paginate: false
 
 links:
 - link: '/pdfs/pyqs/2022-12-10-fy-bit-ph3'

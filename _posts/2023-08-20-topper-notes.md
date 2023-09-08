@@ -4,15 +4,15 @@ layout: post
 title: Topper Notes
 subtitle: 
 description: Top Karna Hai? Toppers ke notes se karo.
-image: /../assets/img/posts/Notes-cuate.png
-optimized-image: /../assets/img/posts/Notes-cuate.png
 category: notes 
 special: true
+image: /../assets/img/posts/Notes-cuate.png
+optimized-image: /../assets/img/posts/Notes-cuate.png
 tags: 
 - mains
 - notes
 author: parthnikam
-paginate: true
+paginate: false
 
 links:
   - chem:

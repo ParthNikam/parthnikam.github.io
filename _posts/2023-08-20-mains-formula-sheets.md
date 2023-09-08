@@ -1,6 +1,6 @@
 ---
 date: 2019-10-21 12:00:00 +0530
-layout: post
+layout: pdfs
 title: Mains Formula Sheets
 subtitle: 
 description: Formula sheets are life savers!

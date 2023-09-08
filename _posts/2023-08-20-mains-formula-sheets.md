@@ -17,31 +17,31 @@ paginate: false
 
 links:
   - chem:
-    - name:  1 Some Basic Concept Of Chemistry
+    - name: 01 Some Basic Concept Of Chemistry
       link: '/pdfs/fsheets/chem/2022-09-11-01-some-basic-concept-of-chemistry'
 
-    - name:  2 Atomic Structure
+    - name: 02 Atomic Structure
       link: '/pdfs/fsheets/chem/2022-09-11-02-atomic-structure'
 
-    - name:  3 Periodic Properties
+    - name: 03 Periodic Properties
       link: '/pdfs/fsheets/chem/2022-09-11-03-periodic-properties'
 
-    - name:  4 Chemical Bonding
+    - name: 04 Chemical Bonding
       link: '/pdfs/fsheets/chem/2022-09-11-04-chemical-bonding'
 
-    - name:  5 States Of Matter
+    - name: 05 States Of Matter
       link: '/pdfs/fsheets/chem/2022-09-11-05-states-of-matter'
 
-    - name:  6 Thermodynamics
+    - name: 06 Thermodynamics
       link: '/pdfs/fsheets/chem/2022-09-11-06-thermodynamics'
 
-    - name:  7 Chemical Equilibrium
+    - name: 07 Chemical Equilibrium
       link: '/pdfs/fsheets/chem/2022-09-11-07-chemical-equilibrium'
 
-    - name:  8 Ionic Equilibrium
+    - name: 08 Ionic Equilibrium
       link: '/pdfs/fsheets/chem/2022-09-11-08-ionic-equilibrium'
 
-    - name:  9 Hydrogen
+    - name: 09 Hydrogen
       link: '/pdfs/fsheets/chem/2022-09-11-09-hydrogen'
 
     - name: 10 S Block
@@ -120,25 +120,25 @@ links:
       link: '/pdfs/fsheets/chem/2022-09-11-34-qualitative-analysis'
 
   - phsx:
-    - name:  3 Circular Motion
+    - name: 03 Circular Motion
       link: '/pdfs/fsheets/phsx/2022-09-11-03-circular-motion'
 
-    - name:  4 Laws Of Motion
+    - name: 04 Laws Of Motion
       link: '/pdfs/fsheets/phsx/2022-09-11-04-laws-of-motion'
 
-    - name:  5 Work Power Energy
+    - name: 05 Work Power Energy
       link: '/pdfs/fsheets/phsx/2022-09-11-05-work-power-energy'
 
-    - name:  6 Centre Of Mass Collision
+    - name: 06 Centre Of Mass Collision
       link: '/pdfs/fsheets/phsx/2022-09-11-06-centre-of-mass-collision'
 
-    - name:  7 Rotational Motion
+    - name: 07 Rotational Motion
       link: '/pdfs/fsheets/phsx/2022-09-11-07-rotational-motion'
 
-    - name:  8 Gravitation
+    - name: 08 Gravitation
       link: '/pdfs/fsheets/phsx/2022-09-11-08-gravitation'
 
-    - name:  9 Elasticity
+    - name: 09 Elasticity
       link: '/pdfs/fsheets/phsx/2022-09-11-09-elasticity'
 
     - name: 11 Heat Part1
@@ -193,28 +193,28 @@ links:
       link: '/pdfs/fsheets/phsx/2022-09-11-27-logic-gates'
 
   - math:
-    - name:  2 Functions Relations
+    - name: 02 Functions Relations
       link: '/pdfs/fsheets/math/2022-09-11-02-functions-relations'
 
-    - name:  3 Trigonometric Ratios
+    - name: 03 Trigonometric Ratios
       link: '/pdfs/fsheets/math/2022-09-11-03-trigonometric-ratios'
 
-    - name:  4 Trigonometric Equations
+    - name: 04 Trigonometric Equations
       link: '/pdfs/fsheets/math/2022-09-11-04-trigonometric-equations'
 
-    - name:  5 Properties Of Triangle
+    - name: 05 Properties Of Triangle
       link: '/pdfs/fsheets/math/2022-09-11-05-properties-of-triangle'
 
-    - name:  6 Height Distances
+    - name: 06 Height Distances
       link: '/pdfs/fsheets/math/2022-09-11-06-height-distances'
 
-    - name:  7 Quadratic Equation
+    - name: 07 Quadratic Equation
       link: '/pdfs/fsheets/math/2022-09-11-07-quadratic-equation'
 
-    - name:  8 Complex Numbers
+    - name: 08 Complex Numbers
       link: '/pdfs/fsheets/math/2022-09-11-08-complex-numbers'
 
-    - name:  9 Permutation Combination
+    - name: 09 Permutation Combination
       link: '/pdfs/fsheets/math/2022-09-11-09-permutation-combination'
 
     - name: 10 Binomial Theorem

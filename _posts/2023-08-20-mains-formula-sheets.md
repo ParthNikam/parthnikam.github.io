@@ -226,7 +226,7 @@ links:
     - name: 12 Straight Line 
       link: '/pdfs/fsheets/math/2022-09-11-12-straight-line-v2'
 
-    - name: 13 Circle
+    - name: 13 Circles
       link: '/pdfs/fsheets/math/2022-09-11-13-circle'
 
     - name: 14 Parabola

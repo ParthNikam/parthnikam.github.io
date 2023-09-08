@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Tangents-and-Normals.pdf - Google Drive
+title: Tangents and Normals
 pdf_path: https://drive.google.com/file/d/1OHZ28IwsS3-aA3v5CIKZhoKlQtjYTkm9/preview?usp=sharing
 tags: notes
 author: parthnikam

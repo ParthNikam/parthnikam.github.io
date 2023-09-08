@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Inverse-Trigonometric-Functions.pdf - Google Drive
+title: Inverse Trigonometric Functions
 pdf_path: https://drive.google.com/file/d/1Dx5X_6HUolN8JjycCeYORawHt-bg-bsC/preview?usp=sharing
 tags: notes
 author: parthnikam

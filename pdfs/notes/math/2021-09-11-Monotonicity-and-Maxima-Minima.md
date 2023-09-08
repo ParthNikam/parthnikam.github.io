@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Monotonicity-and-Maxima-Minima.pdf - Google Drive
+title: Monotonicity and Maxima Minima
 pdf_path: https://drive.google.com/file/d/1WrMYVZMCpOLzqEXPtJKBtSIPzq5kSpvb/preview?usp=sharing
 tags: notes
 author: parthnikam

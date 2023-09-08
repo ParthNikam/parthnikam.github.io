@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Functions.pdf - Google Drive
+title: Functions
 pdf_path: https://drive.google.com/file/d/1NCHQApC3LyhFaFQrB8QPnx8OTL5qnG4N/preview?usp=sharing
 tags: notes
 author: parthnikam

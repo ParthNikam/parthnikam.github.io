@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: States-of-Matter_Gas-Laws.pdf - Google Drive
+title: States-of-Matter_Gas-Laws
 pdf_path: https://drive.google.com/file/d/1TeTacjZxRDEfNFSPJR1NmADPLk91MCd0/preview?usp=sharing
 tags: notes
 author: parthnikam

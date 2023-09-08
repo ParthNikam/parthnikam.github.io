@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Fundamental-curves-and-their-Equations.pdf - Google Drive
+title: Fundamental Curves and Their Equations
 pdf_path: https://drive.google.com/file/d/15ZCJnxCzZLvBEpc3HEQmYV2apuOK0jq7/preview?usp=sharing
 tags: notes
 author: parthnikam

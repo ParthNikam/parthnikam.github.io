@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Titration.pdf - Google Drive
+title: Titration
 pdf_path: https://drive.google.com/file/d/1Hilk05jYSHVwgLAoEgV2-Iyj1SVIePER/preview?usp=sharing
 tags: notes
 author: parthnikam

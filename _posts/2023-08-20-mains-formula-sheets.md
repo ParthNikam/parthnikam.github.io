@@ -13,7 +13,7 @@ tags:
 - notes
 - mains 
 author: parthnikam
-paginate: false
+paginate: true
 
 links:
   - chem:

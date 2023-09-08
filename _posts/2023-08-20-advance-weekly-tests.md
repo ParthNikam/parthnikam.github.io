@@ -12,7 +12,7 @@ tags:
 - advance
 - weekly
 author: parthnikam
-paginate: false
+paginate: true
 
 links:
 - link: '/pdfs/pyqs/2022-11-26-fy-adv-week'

@@ -12,7 +12,7 @@ tags:
 - mains
 - notes
 author: parthnikam
-paginate: false
+paginate: true
 
 links:
   - chem:
@@ -249,7 +249,7 @@ links:
     - name: Fundamental Curves and Their Equations
       link: '/pdfs/notes/math/2021-09-11-Fundamental-curves-and-their-Equations'
 
-    - name: adsfas Rate Measure & Errors and Approximations
+    - name: Rate Measure & Errors and Approximations
       link: '/pdfs/notes/math/2021-09-11-Rate-Measure-and-Errors-and-approximations'
 
     - name: Differentiability

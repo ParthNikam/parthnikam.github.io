@@ -12,7 +12,8 @@ tags:
 - mains
 - weekly
 author: parthnikam
-paginate: false
+paginate: true
+
 links: 
 - link: '/pdfs/pyqs/2022-08-27-fy-mns-week'
   name: 'First Year Mains Weekly Test'

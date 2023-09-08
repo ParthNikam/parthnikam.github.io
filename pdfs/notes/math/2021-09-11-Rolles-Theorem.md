@@ -1,8 +1,8 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Rate-Measure-&amp;-Errors-and-approximations.pdf - Google Drive
-pdf_path: https://drive.google.com/file/d/17VhT5tJJtPiLRgk7NsWRgjVJyoZ8dzTr/preview?usp=sharing
+title: Rolle's Theorem
+pdf_path: https://drive.google.com/file/d/1BdhZT4Jx5caDj1sH_Aigp3PNAZDLg46Z/preview?usp=sharing
 tags: notes
 author: parthnikam
 paginate: true

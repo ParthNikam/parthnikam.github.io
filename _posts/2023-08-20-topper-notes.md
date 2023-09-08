@@ -12,7 +12,7 @@ tags:
 - mains
 - notes
 author: parthnikam
-paginate: true
+paginate: false
 
 links:
   - chem:
@@ -249,14 +249,14 @@ links:
     - name: Fundamental Curves and Their Equations
       link: '/pdfs/notes/math/2021-09-11-Fundamental-curves-and-their-Equations'
 
-    - name: Rate Measure & Errors and Approximations
-      link: '/pdfs/notes/math/2021-09-11-Rate-Measure-and;-Errors-and-approximations'
+    - name: adsfas Rate Measure & Errors and Approximations
+      link: '/pdfs/notes/math/2021-09-11-Rate-Measure-and-Errors-and-approximations'
 
     - name: Differentiability
       link: '/pdfs/notes/math/2021-09-11-Differentiability'
 
     - name: Rolle's Theorem
-      link: '/pdfs/notes/math/2021-09-11-Rolles-Throrem'
+      link: '/pdfs/notes/math/2021-09-11-Rolles-Theorem'
 
     - name: Inverse Trigonometric Functions
       link: '/pdfs/notes/math/2021-09-11-Inverse-Trigonometric-Functions'

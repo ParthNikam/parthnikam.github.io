@@ -51,9 +51,6 @@ links:
 - link: '/pdfs/pyqs/2023-08-14-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/pyqs/2023-09-30-fy-mns-ph2'
-  name: 'First Year Mains Phase Test 2'
-
 - link: '/pdfs/pyqs/2023-12-24-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 

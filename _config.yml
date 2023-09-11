@@ -1,6 +1,6 @@
 # Site Settings
 name: Top Karega
-title: Top Karega - Helping You Ace Your Tests.
+title: Top Karega - Helping You Ace Your Tests
 description: Top Karega provides you with high quality pdfs to practice for your upcoming tests.
 tags:
   - blog
@@ -8,7 +8,7 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: false
+show_hero: true
 menu:
   - title: Home
     url: /
@@ -39,8 +39,8 @@ medium_username: parthnikam108
 
 # Posts Settings
 show_time_bar: false
-show_modal_on_exit: true
-show_modal_on_finish_post: true
+show_modal_on_exit: false
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 

@@ -11,7 +11,7 @@ permalink: /about/
 
 # About
 
-Welcome to TopKarega.com, your ultimate destination for a comprehensive collection of question papers exclusively picked for FIITJEE students. We understand the importance of practice in excelling in your exams, and that's why we offer a wide range of question papers for different weeks, phases, subjects, and dates. 
+Welcome to TopKarega.com, your ultimate destination for a comprehensive collection of question papers picked exclusively. We understand the importance of practice in excelling in your exams, and that's why we offer a wide range of question papers for different weeks, phases, subjects, and dates. 
 
 Whether you're preparing for an upcoming test or aiming to reinforce your knowledge, our platform provides the perfect resources to aid your journey towards academic excellence. What sets us apart is our founder, Parth Nikam, who personally utilizes TopKarega.com to prepare for his own tests. If it helps him, imagine the difference it can make for you! 
 

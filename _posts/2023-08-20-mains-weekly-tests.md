@@ -51,7 +51,7 @@ links:
 - link: '/pdfs/pyqs/2023-08-14-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/pyqs/2023-12-24-fy-mns-week'
+- link: '/pdfs/pyqs/2022-12-24-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
 - link: '/pdfs/pyqs/2022-01-30-fy-mns-ph4'
@@ -66,7 +66,7 @@ links:
 - link: '/pdfs/pyqs/2023-08-14-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
-- link: '/pdfs/pyqs/2023-12-24-fy-mns-week'
+- link: '/pdfs/pyqs/2023-09-11-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 
 - link: '/pdfs/pyqs/2022-08-28-fy-mns-week'

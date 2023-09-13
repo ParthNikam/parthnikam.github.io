@@ -258,8 +258,17 @@ links:
     - name: Rolle's Theorem
       link: '/pdfs/notes/math/2021-09-11-Rolles-Theorem'
 
+    - name: Trigonometric Equations
+      link: '/pdfs/notes/math/2021-09-11-Trigonometric-Equations'
+
+    - name: Trigonometric Ratios and Identities
+      link: '/pdfs/notes/math/2021-09-11-Trigonometric-Ratios-and-Identities'
+    
     - name: Inverse Trigonometric Functions
       link: '/pdfs/notes/math/2021-09-11-Inverse-Trigonometric-Functions'
+
+    - name: Properties and Solutions of Triangles
+      link: '/pdfs/notes/math/2021-09-11-Properties-and-Solutions-of-Triangle'
 
     - name: Matrices and Determinants Part 2
       link: '/pdfs/notes/math/2021-09-11-Matrices-and-Determinants-Part-2'

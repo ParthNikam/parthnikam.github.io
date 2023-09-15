@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: General-Organic-Chemistry
+title: General Organic Chemistry
 pdf_path: https://drive.google.com/file/d/1GTLM4JJU6Z7zurDzQ53OYcY3xyuQqiPx/preview?usp=sharing
 tags: notes
 author: parthnikam

@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: S-block-elements
+title: S Block Elements
 pdf_path: https://drive.google.com/file/d/1shq7v2-vxVk9Pkoh6vsfiAVLVLZHMa4H/preview?usp=sharing
 tags: notes
 author: parthnikam

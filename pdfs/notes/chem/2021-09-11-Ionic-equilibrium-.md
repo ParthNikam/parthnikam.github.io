@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 00:00:00  +0530
 layout: pdfs
-title: Ionic-equilibrium-
+title: Ionic Equilibrium
 pdf_path: https://drive.google.com/file/d/1_EUvjK1RB5f9bUhAIai13jfo0Q8gh3dz/preview?usp=sharing
 tags: notes
 author: parthnikam

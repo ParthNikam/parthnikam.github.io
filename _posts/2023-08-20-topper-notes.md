@@ -67,9 +67,6 @@ links:
     - name: Ionic Equilibrium
       link: '/pdfs/notes/chem/2021-09-11-Ionic-equilibrium-'
 
-    - name: Ionic Equilibrium
-      link: '/pdfs/notes/chem/2021-09-11-Ionic-Equilibrium'
-
     - name: Isomerism
       link: '/pdfs/notes/chem/2021-09-11-Isomerism'
 

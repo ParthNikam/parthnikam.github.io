@@ -67,6 +67,9 @@ links:
     - name: Ionic Equilibrium
       link: '/pdfs/notes/chem/2021-09-11-Ionic-equilibrium-'
 
+    - name: Periodic Classification
+      link: '/pdfs/notes/chem/2021-09-11-Periodic-Classification'
+
     - name: Isomerism
       link: '/pdfs/notes/chem/2021-09-11-Isomerism'
 

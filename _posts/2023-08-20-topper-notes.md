@@ -89,7 +89,7 @@ links:
       link: '/pdfs/notes/chem/2021-09-11-S-Block'
 
     - name: States of Matter Gas Laws
-      link: '/pdfs/notes/chem/2021-09-11-States-of-Matter-Gas-Laws'
+      link: '/pdfs/notes/chem/2021-09-11-States-of-Matter_Gas-Laws'
 
     - name: Stoichiometry 2.0
       link: '/pdfs/notes/chem/2021-09-11-Stoichiometry-2.0'

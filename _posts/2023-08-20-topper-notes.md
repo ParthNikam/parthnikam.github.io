@@ -61,6 +61,9 @@ links:
     - name: H2 and It’s Compounds,13,14 Groups
       link: '/pdfs/notes/chem/2021-09-11-H2-and-it’s-compounds-,13,14-groups-'
 
+    - name: Hydrogen Bonding
+      link: '/pdfs/notes/chem/2021-09-11-hydrogen-bonding'
+
     - name: Hydrogen
       link: '/pdfs/notes/chem/2021-09-11-hydrogen'
 

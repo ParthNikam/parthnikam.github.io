@@ -111,7 +111,7 @@ collections:
       - label: "Layout"
         name: "layout"
         widget: "hidden"
-        default: "post_doc"
+        default: "pdfs"
       - label: "Title"
         name: "title"
         widget: "string"

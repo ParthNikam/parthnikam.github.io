@@ -21,6 +21,12 @@ links:
 - link: '/pdfs/pyqs/2022-10-01-fy-adv-ph2'
   name: 'First Year Advance Phase Test 2'
 
+- link: '/pdfs/pyqs/2022-12-31-fy-adv-week'
+  name: 'First Year Advance Weekly Test'
+
+- link: '/pdfs/pyqs/2022-09-17-fy-adv-week'
+  name: 'First Year Advance Phase Test 2'
+
 - link: '/pdfs/pyqs/2022-07-30-fy-adv-week'
   name: 'First Year Advance Weekly Test'
 

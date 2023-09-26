@@ -1,8 +1,8 @@
 ---
-date: 2022-12-03 00:00:00  +0530
+date: 2023-01-07 00:00:00  +0530
 layout: pdfs
 title: First Year Mains Weekly Test
-pdf_path: https://drive.google.com/file/d/1vIwZZaHoKUIHvtlTKFDlR9TYPfYnEFmN/preview?usp=sharing
+pdf_path: https://drive.google.com/file/d/1dYmEirQw3dQxl8eYCCcIAiO0d-EXCPG6/preview?usp=drive_link
 tags: first-year, mains, weekly
 author: parthnikam
 paginate: true

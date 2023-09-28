@@ -136,6 +136,27 @@
       }
 
       // JavaScript
+
+      const sortSelect = document.getElementById("sortSelect");
+
+      // Load the user's previous choice from localStorage (if available)
+      const userChoice = localStorage.getItem("sortChoice");
+      if (userChoice) {
+        sortSelect.value = userChoice;
+      }
+
+      // Add an event listener to the select element
+      sortSelect.addEventListener("change", function () {
+        const sortBy = sortSelect.value;
+
+        // Store the user's choice in localStorage
+        localStorage.setItem("sortChoice", sortBy);
+
+        // Call the function to update the PDF list
+        updatePDFList(sortBy);
+      });
+
+
       function updatePDFList(sortBy) {
         const pdfList = document.getElementById("pdfList");
         const pdfs = {{ page.links | jsonify | safe }};
@@ -176,20 +197,9 @@
         });
       }
 
-      const sortSelect = document.getElementById("sortSelect");
-
-      if (sortSelect) {
-        sortSelect.addEventListener("change", (event) => {
-          const sortBy = event.target.value;
-          localStorage.setItem("sortByValue", sortBy);
-          updatePDFList(sortBy);
-        });
-        
-        // Initial sorting by name and update the PDF list
-        updatePDFList("name");
-        sortSelect.value = "name"; // Set the default value of sort select
-        localStorage.setItem("sortByValue", sortBy);
-      }
+      // Initial load
+      const initialSortBy = sortSelect.value;
+      updatePDFList(initialSortBy);
 
       function filterLinks() {
         const pdfList = document.getElementById("pdfList");
@@ -270,19 +280,6 @@
       }
 
 
-      // Storing dropdown option for filter by Name or Date for more convenience
-      const sortDropdown = document.getElementById("sortSelect");
-
-      if (sortDropdown) {
-        sortDropdown.addEventListener("change", filterLinks);
-
-        sortFilter = localStorage.getItem("sortByValue");
-        if (sortFilter) {
-          sortDropdown.value = sortFilter;
-        }
-
-        filterLinks();
-      }
 
     </script>
 

@@ -136,27 +136,6 @@
       }
 
       // JavaScript
-
-      const sortSelect = document.getElementById("sortSelect");
-
-      // Load the user's previous choice from localStorage (if available)
-      const userChoice = localStorage.getItem("sortChoice");
-      if (userChoice) {
-        sortSelect.value = userChoice;
-      }
-
-      // Add an event listener to the select element
-      sortSelect.addEventListener("change", function () {
-        const sortBy = sortSelect.value;
-
-        // Store the user's choice in localStorage
-        localStorage.setItem("sortChoice", sortBy);
-
-        // Call the function to update the PDF list
-        updatePDFList(sortBy);
-      });
-
-
       function updatePDFList(sortBy) {
         const pdfList = document.getElementById("pdfList");
         const pdfs = {{ page.links | jsonify | safe }};
@@ -197,9 +176,18 @@
         });
       }
 
-      // Initial load
-      const initialSortBy = sortSelect.value;
-      updatePDFList(initialSortBy);
+      const sortSelect = document.getElementById("sortSelect");
+
+      if (sortSelect) {
+        sortSelect.addEventListener("change", (event) => {
+          const sortBy = event.target.value;
+          updatePDFList(sortBy);
+        });
+
+        // Initial sorting by name and update the PDF list
+        updatePDFList("name");
+        sortSelect.value = "name"; // Set the default value of sort select
+      }
 
       function filterLinks() {
         const pdfList = document.getElementById("pdfList");
@@ -263,9 +251,6 @@
         }
       }
 
-
-      // Storing the dropdown option for topper notes page
-      // so that user returns to previously chosen subject even on new page
       const subjectDropdown = document.getElementById("subjectDropdown");
 
       if (subjectDropdown) {
@@ -278,8 +263,6 @@
 
         filterLinks();
       }
-
-
 
     </script>
 

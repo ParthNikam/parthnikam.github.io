@@ -14,6 +14,13 @@ author: parthnikam
 paginate: false
 
 links:
+
+- link: '/pdfs/pyqs/2023-09-20-fy-adv-ph2'
+  name: 'First Year Advance Phase Test 2'
+
+- link: '/pdfs/pyqs/2023-09-21-fy-adv-ph2'
+  name: 'First Year Advance Phase Test 2'
+
 - link: '/pdfs/pyqs/2023-01-30-fy-mns-ph4'
   name: 'First Year Phase Test 4'
 

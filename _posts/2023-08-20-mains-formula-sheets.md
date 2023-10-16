@@ -1,6 +1,6 @@
 ---
 date: 2019-10-21 12:00:00 +0530
-layout: pdfs
+layout: post
 title: Mains Formula Sheets
 subtitle: 
 description: Formula sheets are life savers!
@@ -8,7 +8,10 @@ category: notes
 special: true
 image: /../assets/img/posts/Taking notes-amico.png
 optimized_image: /../assets/img/posts/Taking notes-amico.png
-tags: worksheets, notes, mains 
+tags: 
+- worksheets
+- notes
+- mains 
 author: parthnikam
 paginate: false
 

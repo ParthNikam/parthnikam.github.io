@@ -15,6 +15,9 @@ author: parthnikam
 paginate: false
 
 links: 
+- link: '/pdfs/pyqs/2023-10-09-fy-mns-week'
+  name: 'First Year Mains Weekly Test'
+
 - link: '/pdfs/pyqs/2022-08-27-fy-mns-week'
   name: 'First Year Mains Weekly Test'
 

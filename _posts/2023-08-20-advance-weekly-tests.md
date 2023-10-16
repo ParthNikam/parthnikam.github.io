@@ -15,6 +15,19 @@ author: parthnikam
 paginate: false
 
 links:
+
+- link: '/pdfs/pyqs/2023-08-21-fy-adv-week'
+  name: 'First Year Advance Weekly Test'
+
+- link: '/pdfs/pyqs/2023-09-20-fy-adv-ph2'
+  name: 'First Year Advance Phase Test 2'
+
+- link: '/pdfs/pyqs/2023-09-21-fy-adv-ph2'
+  name: 'First Year Advance Phase Test 2'
+
+- link: '/pdfs/pyqs/2023-10-09-fy-adv-week'
+  name: 'First Year Advance Weekly Test'
+
 - link: '/pdfs/pyqs/2022-11-26-fy-adv-week'
   name: 'First Year Advance Weekly Test'
 

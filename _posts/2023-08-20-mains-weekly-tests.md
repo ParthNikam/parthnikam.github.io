@@ -2,8 +2,7 @@
 date: 2022-10-22 12:00:00 +0530
 layout: post
 title: Mains Weekly Tests
-subtitle: 
-description: Questions that definintely might come in your next test ... 
+description: Smash that Mains with these ... 
 image: /../assets/img/posts/Calendar-rafiki.png
 optimized_image: /../assets/img/posts/Calendar-rafiki.png
 category: mains 

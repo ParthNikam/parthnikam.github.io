@@ -1,7 +1,7 @@
 ---
 date: 2022-10-22 12:00:00 +0530
 layout: post
-title: Hot Shots
+title: Sure Shots
 description: Questions that definintely might come in your next test ... 
 image: /../assets/img/posts/Calendar-pana.png
 optimized_image: /../assets/img/posts/Calendar-pana.png

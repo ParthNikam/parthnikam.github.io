@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: Matrices and Determinants Part 2
 pdf_path: https://drive.google.com/file/d/1EKg7yAnPSAMl5tx6F-ETtLHYmlihRY-F/preview?usp=sharing

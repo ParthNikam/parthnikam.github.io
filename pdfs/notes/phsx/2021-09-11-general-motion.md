@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: General Motion
 pdf_path: https://drive.google.com/file/d/1a9JA8lMz9DBLQJILIU4q9pDxuePvr812/preview?usp=sharing

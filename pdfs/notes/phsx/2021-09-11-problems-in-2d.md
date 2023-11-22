@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: Problems in 2D
 pdf_path: https://drive.google.com/file/d/1AWeLg_LG2RhKycDrxqEMwKXw5a1CXynN/preview?usp=sharing

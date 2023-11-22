@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: Work Energy and Power
 pdf_path: https://drive.google.com/file/d/1l0KHSbapmU8JOPispzS_zMq59SmRf56X/preview?usp=sharing

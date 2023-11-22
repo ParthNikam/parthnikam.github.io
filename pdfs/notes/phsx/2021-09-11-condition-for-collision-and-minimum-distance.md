@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: Condition for Collision and Minimum Distance
 pdf_path: https://drive.google.com/file/d/1F6WrPe_9ISbEkU0EBIrYpw3IBazEMSuL/preview?usp=sharing

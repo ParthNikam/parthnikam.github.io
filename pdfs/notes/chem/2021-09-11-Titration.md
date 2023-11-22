@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: Titration
 pdf_path: https://drive.google.com/file/d/1Hilk05jYSHVwgLAoEgV2-Iyj1SVIePER/preview?usp=sharing

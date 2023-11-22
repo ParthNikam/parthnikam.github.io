@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: Projectile Motion 2
 pdf_path: https://drive.google.com/file/d/10sBfzKKSaErkKq4zCBdmdNUyxy9YYqIz/preview?usp=sharing

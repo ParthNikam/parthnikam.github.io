@@ -1,5 +1,6 @@
 ---
 date: 2021-09-11 00:00:00  +0530
+category: notes
 layout: pdfs
 title: Straight Lines
 pdf_path: https://drive.google.com/file/d/1mOc_VxiUW0dwvVB7247fxNHpLKIlzK3E/preview?usp=sharing

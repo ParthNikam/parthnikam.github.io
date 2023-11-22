@@ -8,7 +8,7 @@ tags:
 - mains
 - weekly
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

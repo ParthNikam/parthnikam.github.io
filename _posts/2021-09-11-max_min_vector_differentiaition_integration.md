@@ -6,7 +6,7 @@ title: Max Min Vector Differentiaition Integration
 pdf_path: https://drive.google.com/file/d/1g0fghGDDr6qPILN13IBHXmSXi_Nc21VK/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

@@ -5,7 +5,7 @@ title: 27 Alcohol Phenol Ether
 pdf_path: https://drive.google.com/file/d/18vfJeV6fSZYsK-ZP2nogCE8mWhJAMMUB/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

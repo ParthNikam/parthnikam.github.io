@@ -6,7 +6,7 @@ title: Study Hour Problems on 1D Motion
 pdf_path: https://drive.google.com/file/d/1JetVMVs620Y42YSnJDFfpAc4jksZeb-d/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

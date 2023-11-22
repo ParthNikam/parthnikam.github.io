@@ -5,7 +5,7 @@ title:
 pdf_path: https://drive.google.com/file/d/1txy-fYJRZrPF3rDKuE3uc_XbJz0Pjxr6/preview?usp=drive_link
 tags: -sblock-elements.pdf - Google Drive
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

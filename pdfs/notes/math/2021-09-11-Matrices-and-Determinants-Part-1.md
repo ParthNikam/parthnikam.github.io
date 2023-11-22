@@ -6,7 +6,7 @@ title: Matrices and Determinants Part 1
 pdf_path: https://drive.google.com/file/d/1kf8ORSJOQkMWFu1n_YGYHVV6_ftcPMli/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

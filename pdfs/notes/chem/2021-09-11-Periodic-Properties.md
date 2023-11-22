@@ -6,7 +6,7 @@ title: Periodic Properties
 pdf_path: https://drive.google.com/file/d/18STla43jjaPlm7VtbgEHNql4Hc2AjkW2/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

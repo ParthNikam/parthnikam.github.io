@@ -5,7 +5,7 @@ title: 05 States Of Matter
 pdf_path: https://drive.google.com/file/d/1qfImLBWzMWSrJThiDtS6zdNMHYhmyFqI/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

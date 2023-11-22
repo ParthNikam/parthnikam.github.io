@@ -6,7 +6,7 @@ title: One Dimensional Motion
 pdf_path: https://drive.google.com/file/d/17vd3c22CKM9xV-Sx_1rY_l7UBEN4T92P/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

@@ -6,7 +6,7 @@ title: Implicit Differentiation and Maxima and Minima
 pdf_path: https://drive.google.com/file/d/1BkXG7aD_zjdYHb8Iy-JTpNdUEI0U290w/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

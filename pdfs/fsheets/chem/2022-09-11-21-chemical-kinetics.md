@@ -5,7 +5,7 @@ title: 21 Chemical Kinetics
 pdf_path: https://drive.google.com/file/d/17r1KL8KCCXb7GXqT34-po5GETQs8TbwF/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

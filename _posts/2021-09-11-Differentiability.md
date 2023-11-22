@@ -6,7 +6,7 @@ title: Differentiability
 pdf_path: https://drive.google.com/file/d/1Ac2X9fc5ZJlY_w5qsFdP-axG1bEJ-Fsf/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

@@ -5,7 +5,7 @@ title: 17 Environmental Chemistry
 pdf_path: https://drive.google.com/file/d/17FM0qzJuWqlZ5HT9he9CPYb3c87GgnTn/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

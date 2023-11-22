@@ -35,7 +35,7 @@ tags:
   - welcome
   - blog
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 bla bla bla
@@ -249,7 +249,7 @@ Example:
 # 2019-08-20-ten-skills-you-need-to-have-to-become-a-good-developer.md
 ---
 ...
-paginate: true
+paginate: false
 ...
 ---
 

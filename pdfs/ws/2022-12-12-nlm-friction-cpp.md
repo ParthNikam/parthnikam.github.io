@@ -5,7 +5,7 @@ title:
 pdf_path: https://drive.google.com/file/d/1FFalrxYhfxwZwS69QxT1tTB4YBE1fPSI/preview?usp=drive_link
 tags: worksheets
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

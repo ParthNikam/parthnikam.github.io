@@ -5,7 +5,7 @@ title: 06 Thermodynamics
 pdf_path: https://drive.google.com/file/d/1IXiastw8Z3GrMpeHEgX9XszP316g7X9S/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

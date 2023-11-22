@@ -6,7 +6,7 @@ title: Cartesian System and Straight Lines
 pdf_path: https://drive.google.com/file/d/1rveTN3hzDGBDS-jeJXele_W2XMl7cLUd/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

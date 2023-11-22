@@ -5,7 +5,7 @@ title: 24 Optical Instruments
 pdf_path: https://drive.google.com/file/d/1HtQ4OIhS8rPw6bEq3ng_x2VC-fCHuac2/preview?usp=sharing
 tags: notes
 author: parthnikam
-paginate: true
+paginate: false
 ---
 
 <iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

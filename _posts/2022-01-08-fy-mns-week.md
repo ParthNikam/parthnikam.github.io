@@ -3,7 +3,17 @@ date: 2022-01-08 00:00:00  +0530
 layout: post
 title: First Year Mains Weekly Test
 pdf_path: https://drive.google.com/file/d/1ZZtNcFLKQVKH0Ct2EvEbBBWsSiSNaFqu/preview?usp=drive_link
-tags: first-year, mains, weekly
+tags: 
+- first-year
+- mains
+- weekly
+- straight lines
+- application of derivatives
+- SHM
+- simple harmonic motion
+- springs
+- organic reactions
+category: mains
 author: parthnikam
 paginate: false
 ---

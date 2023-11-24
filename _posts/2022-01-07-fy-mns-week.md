@@ -7,6 +7,12 @@ tags:
 - first-year
 - mains
 - weekly
+- vector algebra
+- elasticity
+- fluid statics
+- tautomerism
+- alkanes
+category: mains
 author: parthnikam
 paginate: false
 ---

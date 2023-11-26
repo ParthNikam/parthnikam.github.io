@@ -1,7 +1,7 @@
 ---
 date: 2023-11-06 00:00:00  +0530
 layout: post
-title: First Year Mains Weekly Test
+title: Mains Weekly Test
 pdf_path: https://drive.google.com/file/d/1Mu3J2YKK6cqTv6cElDZJFtntsO5tzVLx/preview?usp=sharing
 tags: first-year, mains, weekly
 author: parthnikam

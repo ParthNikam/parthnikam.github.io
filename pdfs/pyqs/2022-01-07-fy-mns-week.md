@@ -1,10 +1,10 @@
 ---
 date: 2022-01-07 00:00:00  +0530
 layout: pdfs
-title: First Year Mains Weekly Test
+title: Mains Weekly Test
 pdf_path: https://drive.google.com/file/d/1vYd4ybL1lXy_ixCbdnXWIECAWE0qStFi/preview?usp=sharing
 tags: 
-- first-year
+
 - mains
 - weekly
 author: parthnikam

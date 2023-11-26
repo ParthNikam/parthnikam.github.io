@@ -1,0 +1,19 @@
+---
+date: 2021-07-17 00:00:00  +0530
+layout: post
+title: Advance Weekly Test
+pdf_path: https://drive.google.com/file/d/1yGQf6ioM371HlU2Q6Scyx-K8dAyRfczU/preview?usp=drive_link
+tags: 
+- first-year
+- advance
+- weekly
+- kinematics
+- stoichiometry
+- coordinate geometry
+- straight lines
+category: advance
+author: parthnikam
+paginate: false
+---
+
+<iframe class="embed-pdf" src="{{ page.pdf_path }}#toolbar=0" seamless="seamless" scrolling="no" style="overflow:hidden"></iframe>

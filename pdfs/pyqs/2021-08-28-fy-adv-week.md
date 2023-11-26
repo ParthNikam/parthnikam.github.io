@@ -1,7 +1,7 @@
 ---
 date: 2021-08-28 00:00:00  +0530
 layout: pdfs
-title: First Year Advance Weekly Test
+title: Advance Weekly Test
 pdf_path: https://drive.google.com/file/d/1UpjR0RDuHoYXqYxMrzUMiOrRZI8ZYx1Z/preview?usp=drive_link
 tags: first-year, advance, weekly
 author: parthnikam

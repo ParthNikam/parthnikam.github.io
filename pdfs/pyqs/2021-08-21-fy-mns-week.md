@@ -1,7 +1,7 @@
 ---
 date: 2021-08-21 00:00:00  +0530
 layout: pdfs
-title: First Year Mains Weekly Test
+title: Mains Weekly Test
 pdf_path: https://drive.google.com/file/d/1IxdrOf-3fz7ImVlJk5MQ504tj07wY-84/preview?usp=drive_link
 tags: first-year, mains, weekly
 author: parthnikam

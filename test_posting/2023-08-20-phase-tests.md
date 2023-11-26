@@ -1,5 +1,5 @@
 ---
-date: 2022-10-22 12:00:00 +0530
+date: 2022-10-21 12:00:00 +0530
 layout: post
 title: Phase Tests
 description: Ace your phase test and get your desired batch!

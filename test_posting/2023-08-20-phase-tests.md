@@ -1,7 +1,7 @@
 ---
 date: 2022-10-25 12:00:00 +0530
 layout: post
-title: Phase Tests
+title: Phase Tests Archives
 description: Ace your phase test and get your desired batch!
 category: phase
 special: false

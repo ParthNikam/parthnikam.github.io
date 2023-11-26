@@ -1,7 +1,7 @@
 ---
 date: 2026-10-22 12:00:00 +0530
 layout: post
-title: Advance Weekly Tests
+title: Advance Archives
 description: Advance isn't tough guys, if you use this ...
 category: advance
 special: false

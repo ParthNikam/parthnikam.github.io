@@ -9,6 +9,7 @@ tags:
 - weekly
 - vector algebra
 - elasticity
+- fluids
 - fluid statics
 - tautomerism
 - alkanes

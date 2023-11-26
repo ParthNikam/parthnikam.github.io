@@ -3,7 +3,17 @@ date: 2022-09-17 00:00:00  +0530
 layout: post
 title: First Year Advance Weekly Test
 pdf_path: https://drive.google.com/file/d/101hkTO9CjgsgkFvCTzVS2-_Ji5ToCJq0/preview?usp=drive_link
-tags: first-year, advance, weekly
+tags: 
+- first-year
+- advance
+- weekly
+- newton's laws of motion
+- NLM 
+- pulleys
+- chemical bonding
+- straight lines
+- matrices
+category: advance
 author: parthnikam
 paginate: false
 ---

@@ -10,6 +10,7 @@ tags:
 - limits
 - differentiation
 - elasticity
+- fluids
 - fluid statics
 - general organic chemistry
 category: mains

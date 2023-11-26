@@ -9,6 +9,7 @@ tags:
 - weekly
 - matrices
 - newton's laws of motion
+- NLM
 - pulleys
 - chemical bonding
 category: mains

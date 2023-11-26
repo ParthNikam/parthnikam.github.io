@@ -7,6 +7,15 @@ tags:
 - first-year
 - advance
 - weekly
+- Moment of inertia
+- torque equilibrium
+- angular momentum
+- IUPAC nomenclature
+- isomerism
+- limits
+- continuity
+
+category: advance
 author: parthnikam
 paginate: false
 ---

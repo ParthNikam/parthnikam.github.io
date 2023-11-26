@@ -1,5 +1,5 @@
 ---
-date: 2019-10-21 12:00:00 +0530
+date: 2022-10-22 12:00:00 +0530
 layout: post
 title: Mains Formula Sheets
 description: Formula sheets are life savers!

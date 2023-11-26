@@ -3,7 +3,23 @@ date: 2022-09-10 00:00:00  +0530
 layout: post
 title: First Year Mains Weekly Test
 pdf_path: https://drive.google.com/file/d/1UWyrvabfZnTlkisP6wsvPmY4k1cZa3qW/preview?usp=drive_link
-tags: first-year, mains, weekly
+tags: 
+- first-year
+- mains
+- weekly
+- straight lines
+- center
+- bisector
+- traingles
+- coordinate geometry
+- kinematics
+- newton's laws of motion
+- NLM
+- strings
+- pulleys
+- ionic equilibrium
+- chemical bonding
+category: mains
 author: parthnikam
 paginate: false
 ---

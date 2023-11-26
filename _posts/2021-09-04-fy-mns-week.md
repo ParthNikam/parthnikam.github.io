@@ -10,6 +10,7 @@ tags:
 - matrices 
 - determinants
 - newton's laws of motion
+- NLM
 - chemical bonding
 
 author: parthnikam

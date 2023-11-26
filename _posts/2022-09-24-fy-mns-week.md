@@ -7,6 +7,13 @@ tags:
 - first-year
 - mains
 - weekly
+- matrices
+- friction
+- work
+- energy
+- conservation of work 
+- chemical bonding
+category: mains
 author: parthnikam
 paginate: false
 ---

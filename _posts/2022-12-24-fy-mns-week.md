@@ -3,7 +3,17 @@ date: 2022-12-24 00:00:00  +0530
 layout: post
 title: First Year Mains Weekly Test
 pdf_path: https://drive.google.com/file/d/1-pU4aBMGI8u_97NYK-Nht2O-yUcYDBxJ/preview?usp=drive_link
-tags: first-year, mains, weekly
+tags: 
+- first-year
+- mains
+- weekly
+- applications of Derivatives
+- AOD
+- electronic effects
+- gravitation
+- maxima
+- minima
+category: mains
 author: parthnikam
 paginate: false
 ---

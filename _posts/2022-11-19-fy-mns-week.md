@@ -7,6 +7,12 @@ tags:
 - first-year
 - mains
 - weekly
+- moment of inertia
+- torque equilibrium
+- IUPAC nomenclature
+- isomerism
+- limits
+category: mains
 author: parthnikam
 paginate: false
 ---

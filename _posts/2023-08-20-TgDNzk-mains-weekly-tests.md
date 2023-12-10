@@ -14,6 +14,9 @@ author: parthnikam
 paginate: false
 
 links: 
+- link: '/pdfs/pyqs/2023-11-28-WwW27k-fy-mns-week'
+  name: 'Mains Weekly Test'
+
 - link: '/pdfs/pyqs/2023-11-06-fy-mns-week'
   name: 'Mains Weekly Test'
 

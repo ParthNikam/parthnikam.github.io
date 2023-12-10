@@ -15,6 +15,12 @@ paginate: false
 
 links:
 
+- link: '/pdfs/pyqs/2023-11-14-Wlg5wkfy-adv-week'
+  name: 'Advance Weekly Test'
+
+- link: '/pdfs/pyqs/2023-11-14-Wlg55k-fy-adv-week'
+  name: 'Advance Weekly Test'
+
 - link: '/pdfs/pyqs/2023-08-21-fy-adv-week'
   name: 'Advance Weekly Test'
 
